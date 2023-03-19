@@ -1,0 +1,13 @@
+.navegacion {
+    background-color: rgba(0,0,0,0.7)!important;
+    }
+
+#whatsapp {
+    position: fixed;
+    z-index: 8000;
+    left: 1800px;
+    bottom: 30px;
+    height: 80px;
+    }
+
+
